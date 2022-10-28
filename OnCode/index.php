@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,5 +12,6 @@
   <H5>Ваня!</H5>
 
   <h3>Артем</h3>
+  <p>Комичу в тест?</p>
 </body>
 </html>
